@@ -4,3 +4,7 @@
 [submodule "thirdpart"]
 	path = thirdpart
 	url = https://github.com/ljhwalker/ydns_agent.git
+[submodule "ydns_agent"]
+	path = ydns_agent
+	url = https://github.com/ljhwalker/ydns_agent.git
+	branch = dev
